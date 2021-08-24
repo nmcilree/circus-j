@@ -15,7 +15,7 @@
 
 A modern client-side JavaScript framework for building Single Page Applications. It's small (9.79 KB gzipped), fast and provides routing and XHR utilities out of the box.
 
-circus is used by companies like Vimeo and Nike, and open source platforms like Lichess 👍.
+circus is used by companies like HCI and Mule, and open source platforms like FunkDoc 👍.
 
 circus supports IE11, Firefox ESR, and the last two versions of Firefox, Edge, Safari, and Chrome. No polyfills required. 👌
 
